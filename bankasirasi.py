@@ -10,10 +10,3 @@ print("Merhaba {} {}, {} numaralı sıradasınız, yaklaşık {} dakika sonra g�
 print("Merhaba "+ad +" "+soyad +", "+sirano + " numaralı sıradasınız, yaklaşık " +beklemesuresi+ " dakika sonra görüşmeye katılacaksınız.")
 
 print("Merhaba",ad , soyad ,",", sirano, "numaralı sıradasınız, yaklaşık",beklemesuresi, "dakika sonra görüşmeye katılacaksınız.")
-
-
-
-
-
-
-
